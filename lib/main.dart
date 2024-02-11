@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main() {
-  print("thid");
   runApp(
     /* const MyApp() */
     DevicePreview(
